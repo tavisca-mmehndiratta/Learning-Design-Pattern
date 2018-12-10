@@ -1,0 +1,12 @@
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\bin\Debug\netcoreapp2.1\FactoryDesignPattern.learning.deps.json
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\bin\Debug\netcoreapp2.1\FactoryDesignPattern.learning.runtimeconfig.json
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\bin\Debug\netcoreapp2.1\FactoryDesignPattern.learning.runtimeconfig.dev.json
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\bin\Debug\netcoreapp2.1\FactoryDesignPattern.learning.dll
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\bin\Debug\netcoreapp2.1\FactoryDesignPattern.learning.pdb
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\obj\Debug\netcoreapp2.1\FactoryDesignPattern.learning.csprojAssemblyReference.cache
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\obj\Debug\netcoreapp2.1\FactoryDesignPattern.learning.csproj.CoreCompileInputs.cache
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\obj\Debug\netcoreapp2.1\FactoryDesignPattern.learning.AssemblyInfoInputs.cache
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\obj\Debug\netcoreapp2.1\FactoryDesignPattern.learning.AssemblyInfo.cs
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\obj\Debug\netcoreapp2.1\FactoryDesignPattern.learning.dll
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\obj\Debug\netcoreapp2.1\FactoryDesignPattern.learning.pdb
+C:\Users\mmehndiratta\source\repos\FactoryDesignPattern.learning\FactoryDesignPattern.learning\bin\Debug\netcoreapp2.1\FactoryDesignPattern.learning.dll.config
